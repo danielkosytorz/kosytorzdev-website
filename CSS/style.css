@@ -1,0 +1,86 @@
+.center-block, .cardImg-img, .cardTitle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.zero-margin-padding, .container-fluid, .row {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #d2dae2;
+  font-family: "Montserrat", sans-serif;
+}
+
+#AboutMe {
+  background-color: #ff3f34;
+}
+
+.myCard {
+  margin-top: 90px;
+  margin-bottom: 15px;
+  padding: 50px;
+  background-color: #ff3f34;
+  box-shadow: 0 0 25px 2px rgba(0, 0, 0, 0.6);
+}
+
+.cardTitle {
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 600;
+}
+
+.cardImg-img {
+  width: 100%;
+  border-radius: 50%;
+  margin-bottom: 25px;
+  border: 2px solid #1e272e;
+}
+
+.aboutMe {
+  margin-top: 100px;
+  margin-left: 20px;
+  padding: 25px;
+}
+.aboutMe h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 3.5rem;
+}
+
+.aboutMeText {
+  text-align: justify;
+  font-size: 1.2rem;
+}
+
+.mynavbar {
+  background-color: #1e272e;
+}
+
+.marginLeftAuto {
+  margin-left: auto;
+}
+
+nav a {
+  color: white;
+}
+nav a:hover {
+  color: #ff3f34;
+  transition: 0.4s;
+}
+
+.navbar-icon {
+  color: #d2dae2;
+}
+
+.fontBrandHeader {
+  font-size: 32px;
+}
+
+.fontLinkHeader {
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=style.css.map */
