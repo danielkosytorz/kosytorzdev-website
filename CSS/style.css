@@ -15,7 +15,7 @@ body {
 }
 
 #AboutMe {
-  background-color: #ff3f34;
+  background-color: #3c40c6;
 }
 
 #InfoTechSection {
@@ -30,7 +30,7 @@ body {
   margin-top: 100px;
   margin-bottom: 15px;
   padding: 50px;
-  background-color: #ff3f34;
+  background-color: #3c40c6;
   box-shadow: 0 0 25px 2px rgba(0, 0, 0, 0.6);
   border-radius: 8px;
 }
@@ -91,7 +91,7 @@ body {
 }
 
 .infoTech {
-  color: #ff3f34;
+  color: #3c40c6;
   margin-top: 30px;
   text-align: center;
 }
@@ -178,7 +178,7 @@ nav a {
   color: white;
 }
 nav a:hover {
-  color: #ff3f34;
+  color: #3c40c6;
   transition: 0.4s;
 }
 
